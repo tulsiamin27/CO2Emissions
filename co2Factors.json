@@ -1,0 +1,38 @@
+[
+ {
+   "region": "Asia",
+   "transportation": 42.81,
+   "deforestation for food production": 3.53,
+   "fossil fuels": 19.14
+ },
+ {
+   "region": "Africa",
+   "transportation": 13.1,
+   "deforestation for food production": 0.09,
+   "fossil fuels": 1.36
+ },
+ {
+   "region": "North America",
+   "transportation": 19.61,
+   "deforestation for food production": 1.03,
+   "fossil fuels": 894.92
+ },
+ {
+   "region": "South America",
+   "transportation": 10.94,
+   "deforestation for food production": 2.71,
+   "fossil fuels": 832.25
+ },
+ {
+   "region": "Europe",
+   "transportation": 69.71,
+   "deforestation for food production": 11.83,
+   "fossil fuels": 7.42
+ },
+ {
+   "region": "Oceania",
+   "transportation": 7.09,
+   "deforestation for food production": 0.52,
+   "fossil fuels": 285.61
+ }
+]
