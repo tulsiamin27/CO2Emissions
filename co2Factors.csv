@@ -1,7 +1,19 @@
-﻿region,transportation,deforestation for food production,fossil fuels
-Asia,42.81,3.53,19.14
-Africa,13.1,0.09,1.36
-North America,19.61,1.03,894.92
-South America,10.94,2.71,832.25
-Europe,69.71,11.83,7.42
-Oceania,7.09,0.52,285.61
+﻿region ,factors,average co2 emission rate
+Asia,transportation,42.81
+Africa,transportation,13.1
+North America,transportation,19.61
+South America,transportation,10.94
+Europe,transportation,69.71
+Oceania,transportation,7.09
+Asia,deforestation for food production,3.53
+Africa,deforestation for food production,0.09
+North America,deforestation for food production,1.03
+South America,deforestation for food production,2.71
+Europe,deforestation for food production,11.83
+Oceania,deforestation for food production,0.52
+Asia,fossil fuels,19.14
+Africa,fossil fuels,1.36
+North America,fossil fuels,894.92
+South America,fossil fuels,832.25
+Europe,fossil fuels,7.42
+Oceania,fossil fuels,285.61
